@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @kathanshah23
+- 👀 I’m interested in projects regarding C/C++ and Java
+- 💞️ I’m looking to collaborate on any Hackathons
+- 📫 Reach me @ kathshah23@gmail.com
